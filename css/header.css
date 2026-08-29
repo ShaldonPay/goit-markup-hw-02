@@ -2,7 +2,7 @@
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--navy-blue);
@@ -31,6 +31,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate);
+  font-style:normal;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
