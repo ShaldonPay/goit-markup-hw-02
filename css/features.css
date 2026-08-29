@@ -1,32 +1,13 @@
-.features {
-  padding: 120px 0;
-}
-
 .features-title {
-  margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  text-transform: capitalize;
   color: var(--navy-blue);
 }
 
-.features-list {
-  display: flex;
-  gap: 24px;
-  max-width: 1158px;
-  margin: 0 auto;
-  padding: 0 15px;
-}
-
-.features-item {
-  width: calc((100% - 72px) / 4);
-}
-
 .features-subtitle {
-  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;

@@ -3,11 +3,9 @@
   --ocean: #404bbf;
   --navy-blue: #2e2f42;
   --slate: #434455;
-  --light-slate: #8e8f99;
   --cornflower: #e7e9fc;
   --cloud: #f4f4fd;
   --white: #ffffff;
-  --dairy: #fcfcfc;
 }
 
 body {
@@ -47,19 +45,4 @@ button {
   cursor: pointer;
   border: none;
   font-family: inherit;
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
-.section-title {
-  margin-bottom: 72px;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  text-transform: capitalize;
-  color: var(--navy-blue);
 }
